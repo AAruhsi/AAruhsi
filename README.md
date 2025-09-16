@@ -48,7 +48,7 @@ I enjoy building scalable web applications and creating intuitive user experienc
 ---
 
 ## 📊 GitHub & LeetCode Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AAruhsi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAruhsi&theme=cobalt&hide_border=false" alt="GitHub Streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAruhsi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AAruhsi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAruhsi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 <br>
 <a href="https://leetcode.com/AarushiGoel">
   <img src="https://leetcard.jacoblin.cool/AarushiGoel?ext=heatmap" alt="LeetCode Stats"/>
@@ -63,7 +63,7 @@ I enjoy building scalable web applications and creating intuitive user experienc
 * **Features**: AI-generated questions, real-time conversational voice interaction, and automated performance feedback.
 * **Tech Stack**: MERN Stack, Vapi AI, Google Gemini, Clerk.
 
-[Source Code]([your-repo-link]) | [Live Demo]([your-live-demo-link])
+[Source Code](https://github.com/AAruhsi/Intervia) 
 
 ---
 
@@ -72,6 +72,6 @@ I enjoy building scalable web applications and creating intuitive user experienc
 * **Features**: Support for 10+ languages, role-based access control (editor/viewer), and persistent file saving.
 * **Tech Stack**: MERN stack, Firebase, CodeMirror, Redux.
 
-[Source Code]([your-repo-link]) | [Live Demo]([your-live-demo-link])
+[Source Code](https://github.com/AAruhsi/Code-Canvas)
 
 ---
